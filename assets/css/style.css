@@ -10,7 +10,7 @@
     background-color: #1abc9c;
 }
 
-.col img{
+.col-img img{
     width: 30%;
 }
 
@@ -37,3 +37,32 @@
     border-radius: 10px;
     margin-top: 12px;
 }
+
+.cards-img img{
+    width: 100%;
+}
+
+.cards-img{
+    padding-bottom: 20px;
+}
+
+.star{
+    margin: 20px 0;
+}
+
+.start{
+    padding-top: 20px;
+}
+
+.job{
+    margin-bottom: 20px;
+}
+
+.portf{
+    padding-top: 30px;
+}
+
+.card-space{
+    margin-bottom: 20px;
+}
+
