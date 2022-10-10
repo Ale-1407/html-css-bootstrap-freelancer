@@ -10,7 +10,7 @@
     background-color: #1abc9c;
 }
 
-.col-img img{
+.avatar-img img{
     width: 30%;
 }
 
@@ -42,11 +42,11 @@
     width: 100%;
 }
 
-.cards-img{
+.cards-img,.col-free{
     padding-bottom: 20px;
 }
 
-.star{
+.star,.btn-outline-light{
     margin: 20px 0;
 }
 
@@ -54,15 +54,28 @@
     padding-top: 20px;
 }
 
-.job{
+.job,.card-space{
     margin-bottom: 20px;
 }
 
-.portf{
+.portf,.about,.contact{
     padding-top: 30px;
 }
 
-.card-space{
-    margin-bottom: 20px;
+.text-left{
+    text-align: left;
+}
+
+.cont-width{
+    width: 80%;
+    margin: auto;
+}
+
+.fa-download{
+    padding-right: 5px;
+}
+
+.btn-green{
+    background-color: #1abc9c;
 }
 
