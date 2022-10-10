@@ -5,3 +5,27 @@
 .navbar-collapse{
     flex-grow: 0;
 }
+
+section{
+    background-color: #1abc9c;
+}
+
+.col img{
+    width: 30%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.color-wht{
+    color: white;
+}
+
+.row-wht{
+    background-color: white;
+    height: 5px;
+    width: 20%;
+    border-radius: 10px;
+    margin-top: 12px;
+}
