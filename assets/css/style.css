@@ -79,3 +79,29 @@
     background-color: #1abc9c;
 }
 
+.foot1{
+    background-color: #3a546d;
+    padding-bottom: 10px;
+}
+
+.foot1 a{
+    text-decoration: none;
+    color: #1abc9c;
+}
+
+h5{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.circle{
+    border-radius: 50%;
+    border: 1px solid white;
+    background-size: contain;
+    padding: 10px 13px;
+}
+
+.foot2{
+    background-color: #2c3e50;
+    padding: 30px 0;
+}
